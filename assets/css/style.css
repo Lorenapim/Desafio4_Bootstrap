@@ -1,0 +1,30 @@
+.precio-oferta{
+    font-size: 20px;
+}
+.navbar-brand { 
+    font-weight: 500;
+}
+body {
+    font-family:"Roboto";
+}
+.card-body {
+    font-family: 300;
+    font-weight: lighter;
+    color: black;
+}
+.lugar {
+    color: #707070;
+}
+
+.precio-oferta {
+    color:#198754;
+    font-weight: 500;
+
+}
+.precio-normal {
+    color: #707070;
+}
+
+.logo {
+    padding: 1rem;
+}
